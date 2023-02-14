@@ -1,0 +1,46 @@
+body {
+    background-color: #ECF9FF;
+    text-align: center;
+}
+
+
+.white_area {
+    width: 250px;
+    border-radius: 15px;
+    background-color: white;
+    margin: 20% auto 20%;
+    padding: 1%;
+
+
+}
+
+.image-qr {
+    width: 90%;
+    margin-top: 12.5px;
+    border-radius: 15px;
+}
+
+.white-area-h3 {
+    margin: 20px;
+
+}
+
+
+
+.white-area-p {
+    color: grey;
+    font-size: 0.75rem;
+    margin: 20px;
+    
+}
+
+
+
+.attribution {
+    font-size: 11px;
+  
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
